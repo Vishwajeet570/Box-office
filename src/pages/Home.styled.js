@@ -11,11 +11,11 @@ export const SearchInput = styled.input`
   box-shadow: 0px 0px 10px 0px rgba(219, 219, 219, 0.5);
   font-size: 14px;
   border-radius: 12px;
-  color: #8d8d8d;
+  color: #616d7e;
 
   &::placeholder {
     font-weight: 300;
-    color: #8d8d8d;
+    color: #616d7e;
   }
 `;
 
@@ -28,7 +28,6 @@ export const RadioInputsWrapper = styled.div`
     margin: 0 15px;
   }
 `;
-
 export const SearchButtonWrapper = styled.div`
   text-align: center;
   margin-bottom: 35px;
